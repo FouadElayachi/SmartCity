@@ -1,0 +1,31 @@
+<ion-header>
+
+  <ion-navbar>
+  	<ion-buttons start>
+  		<button ion-button menuToggle>
+  			<ion-icon name="menu"></ion-icon>
+  		</button>
+  	</ion-buttons>
+    <ion-title>Itinéraire</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+	<ion-list>
+        <ion-item>
+            <ion-label floating>Adresse de départ<button class="icon" item-right clear (click)='getUserPosition()'>
+        <ion-icon name="md-pin" ></ion-icon>
+    </button></ion-label>
+            <ion-input type="text" [(ngModel)]="start" id="start" ></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label floating>Adresse de déstination</ion-label>
+            <ion-input type="text" [(ngModel)]="end" id="end" ></ion-input>
+        </ion-item>
+    </ion-list>
+    <button ion-button full (tap)="calculateAndDisplayRoute()">Tracer mon chemin</button>
+
+    <div #map id="map"></div>
+</ion-content>
