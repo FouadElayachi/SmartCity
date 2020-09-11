@@ -1,10 +1,7 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## Description
 
-## How to use this template
-
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
-
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+SmartCity is a mobile application for the eastern region. It consists in giving an overview of the eastern region (especially the city of Oujda) including the news of the region and the trendy places, but especially to help anyone who wants to use the means of public transport which is the Bus.
+It's a native application created using Ionic 3 and Angular 4.
 
 ### With the Ionic CLI:
 
