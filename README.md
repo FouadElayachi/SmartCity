@@ -37,8 +37,8 @@ SmartCity is a native application for locating bus stations in Oujda city using 
 ![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ERfWnCeWXLRAqeejSPXSWccB6Fysr82A0lyaQZFGB6WOTg?e=kOLFgf?e=PNftA9?raw=true "Welcome tutorial")
 ![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EYcCDAtN53lDt5i2N7gN35oB9J9Fo5U4UYP9myaDWPWIlQ?e=vGohZ7?raw=true "Menu")
 ![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EXb3mrxybmxIq4Ef4cAWAwsByzsVT9TCZULb6PtzNNXoLQ?e=YSUfWA?e=vGohZ7?raw=true "Contacts")
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EVCLZ8wwEF5Bkfr0TL97eLoBZDA79TnPY2SX1k-tDPt_cA?e=aBBbsj?e=vGohZ7?raw=true "City news")
-![Alt text](https://umpacma-my.sharepoint.com/personal/f_elayachi_ump_ac_ma/Documents/GitHub/SmartCity/stations.png "Bus stations between two location for a specific line")
+![Alt text](https://drive.google.com/uc?export=view&id=1nTRgiNh1IeIRN2qtA2mwOjqpVWhNsnYa "City news")
+![Alt text](https://drive.google.com/uc?export=view&id=1j2j-OrPEE915E-FX0Qd_pxXl-bRD9_0g "Stations for a specific line between two locations")
 
 
 
