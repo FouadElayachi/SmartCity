@@ -22,3 +22,24 @@ $ ionic cordova run ios
 Substitute ios for android if not on a Mac.
 
 # SmartCity
+
+SmartCity is a native application for locating bus stations in Oujda city using Ionic3 and Angular4.
+
+# Screens
+
+## UML diagrams
+
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ETJQS8-byV5MqwgvPcaQfgMBTj08zrBZxHNSxJYACts4Ag?e=PNftA9?raw=true "Use Case")
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EbdY5QXxR51FiQeM7pF5vhkBjjg9gZ7s8gLdGfl3VUT4uA?e=VODkXF?e=PNftA9?raw=true "Sequence")
+
+## Application
+
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ERfWnCeWXLRAqeejSPXSWccB6Fysr82A0lyaQZFGB6WOTg?e=kOLFgf?e=PNftA9?raw=true "Welcome tutorial")
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EYcCDAtN53lDt5i2N7gN35oB9J9Fo5U4UYP9myaDWPWIlQ?e=vGohZ7?raw=true "Menu")
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EXb3mrxybmxIq4Ef4cAWAwsByzsVT9TCZULb6PtzNNXoLQ?e=YSUfWA?e=vGohZ7?raw=true "Contacts")
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EVCLZ8wwEF5Bkfr0TL97eLoBZDA79TnPY2SX1k-tDPt_cA?e=aBBbsj?e=vGohZ7?raw=true "City news")
+![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ERgHGT-aUf9AlJ5fVZ46Li8Bdh_QT-10wqpCCLnHyp9USQ?e=ttAci3?raw=true "Bus stations between two location for a specific line")
+
+
+
+
