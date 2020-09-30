@@ -29,14 +29,14 @@ SmartCity is a native application for locating bus stations in Oujda city using 
 
 ## UML diagrams
 
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ETJQS8-byV5MqwgvPcaQfgMBTj08zrBZxHNSxJYACts4Ag?e=PNftA9?raw=true "Use Case")
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EbdY5QXxR51FiQeM7pF5vhkBjjg9gZ7s8gLdGfl3VUT4uA?e=VODkXF?e=PNftA9?raw=true "Sequence")
+![Alt text](https://drive.google.com/uc?export=view&id=1UbPZ4rubAjrTZTA2LVvtwuTMqIkWMcE0 "Use Case")
+![Alt text](https://drive.google.com/uc?export=view&id=1TtNvS5Y42p-CaM1nu9Xw9RN5FM4u3rde "Sequence diagram")
 
 ## Application
 
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/ERfWnCeWXLRAqeejSPXSWccB6Fysr82A0lyaQZFGB6WOTg?e=kOLFgf?e=PNftA9?raw=true "Welcome tutorial")
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EYcCDAtN53lDt5i2N7gN35oB9J9Fo5U4UYP9myaDWPWIlQ?e=vGohZ7?raw=true "Menu")
-![Alt text](https://umpacma-my.sharepoint.com/:i:/g/personal/f_elayachi_ump_ac_ma/EXb3mrxybmxIq4Ef4cAWAwsByzsVT9TCZULb6PtzNNXoLQ?e=YSUfWA?e=vGohZ7?raw=true "Contacts")
+![Alt text](https://drive.google.com/uc?export=view&id=1N2YgXG3NIU0oXh2WtFEtVfPMuUUSYqKh "Welcome tutorial")
+![Alt text](https://drive.google.com/uc?export=view&id=1HWMQnpmAFK6FOy-8J79r9w7X74IP1EYR "Menu")
+![Alt text](https://drive.google.com/uc?export=view&id=1zgCOIRjLWNkQm7X_xeDFHj1MhWWKOMln "Contacts")
 ![Alt text](https://drive.google.com/uc?export=view&id=1nTRgiNh1IeIRN2qtA2mwOjqpVWhNsnYa "City news")
 ![Alt text](https://drive.google.com/uc?export=view&id=1j2j-OrPEE915E-FX0Qd_pxXl-bRD9_0g "Stations for a specific line between two locations")
 
