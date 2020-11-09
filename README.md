@@ -1,3 +1,5 @@
+# SmartCity
+
 ## Description
 
 SmartCity is a mobile application for the eastern region. It consists in giving an overview of the eastern region (especially the city of Oujda) including the news of the region and the trendy places, but especially to help anyone who wants to use the means of public transport which is the Bus.
@@ -20,10 +22,6 @@ $ ionic cordova run ios
 ```
 
 Substitute ios for android if not on a Mac.
-
-# SmartCity
-
-SmartCity is a native application for locating bus stations in Oujda city using Ionic3 and Angular4.
 
 # Screens
 
